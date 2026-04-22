@@ -2,6 +2,18 @@
 
 A REST API for managing a burger restaurant menu, built with **Spring Boot 3.5 + Kotlin + MongoDB**.
 
+## Live Demo
+
+**Deployed on Railway:**
+https://ahoi-challenge-production.up.railway.app/swagger-ui/index.html#/
+
+**API Key (for testing):**
+```
+Found in test.env
+```
+
+In Swagger UI click **Authorize** (🔒), paste the key above, then try any endpoint.
+
 ---
 
 ## Tech Stack
